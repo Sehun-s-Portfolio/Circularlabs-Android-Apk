@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="432eaca8-c1f2-44bc-b219-af89593af27e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/caches/7.5/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/7.5/scripts/6gtrl2555ik6lcenaj8mydre6/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/7.5/scripts/aedvbq4byuad7ru2fskxz8nee/aedvbq4byuad7ru2fskxz8nee.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/7.5/scripts/efydy3tlf6pvpha33ibxk31hu/cp_init/_BuildScript_$_run_closure1$_closure2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/jars-9/0355e1e050d4ab5cc2562baa28117e92/grpc-protobuf-lite-1.39.0.jar.receipt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/jars-9/06dd46b1c2fb5c316074095ecf08bf09/lint-typedef-remover-30.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/jars-9/0799df7862dc2e0452a61f2bb33f2392/grpc-api-1.39.0.jar.receipt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/jars-9/090ec86d42dc2a7912eaa7f1ccb9b6e1/builder-model-7.4.2.jar.lock.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/jars-9/15785bd0aa8ede940bf9665c37997f31/netty-handler-proxy-4.1.52.Final.jar.receipt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/jars-9/17403ecf51b513cb491e9e89f6573508/httpcore-4.4.13.jar.receipt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/jars-9/249d5d532425b2b3b4146ba4a04aa2f4/init.jar.lock.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/jars-9/256322ab6ad6d06ff200424de9f2f2db/commons-compress-1.20.jar.receipt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/jars-9/2d3ce2fabc4c56644d7849af3b097eed/dagger-2.28.3.jar.lock.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/jars-9/38e673218fde01462e30cd311852e72f/android-test-plugin-host-retention-proto-30.4.2.jar.lock.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/jars-9/3d734c760fe8a6c0b5513c449595ec7d/init.jar.lock.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/jars-9/4af521ad988c899ddae390b3daa3497f/commons-io-2.4.jar.receipt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/jars-9/4b8f5bdae50866fa923653a32a2443b4/annotations-30.4.2.jar.lock.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/jars-9/5f2b4833f015ae505bb6dd85a483c42a/databinding-compiler-common-7.4.2.jar.receipt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/jars-9/71e511ece2ea6b2d06949a85596d757d/jose4j-0.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/jars-9/794aae0e5fe126c79d3f57bdf25ec0d8/jna-5.6.0.jar.lock.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/jars-9/79a988bf4cc646408f94d7cfda1f1d8f/sdk-common-30.4.2.jar.lock.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/jars-9/7aeb7aace7df775408adc4308d7c9283/httpmime-4.5.6.jar.receipt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/jars-9/7afa0ea7007e80b148be5b6e3bdbaf53/cp_init.jar.lock.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/jars-9/8ed4f1772df4d0f15abc5d872bb711d9/util_rt.jar.lock.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/jars-9/9286d986a18dd7d7c10907581767268a/zipflinger-7.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/jars-9/92ea6c918a1f2a63938349f5facc2c6f/javax.inject-1.jar.lock.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/jars-9/9c4b9fa4b8218bf69caa8b8b4fd6eda3/sdklib-30.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/jars-9/9c4b9fa4b8218bf69caa8b8b4fd6eda3/sdklib-30.4.2.jar.receipt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/jars-9/9ccbf1c8cfee2b504383f3d170c88308/dvlib-30.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/jars-9/9d6d7ec220af4a749931581e4fc777ee/slf4j-api-1.7.30.jar.lock.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/jars-9/a11f5e5635b0cff31ad958dc9ab50ce0/jetifier-core-1.0.0-beta10.jar.lock.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/jars-9/ae500c192817767bb080d80868a4d67f/grpc-core-1.39.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/jars-9/af68e3c8742f986ce8d1ea73f7421ddc/xml-apis-1.4.01.jar.lock.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/jars-9/b33e4099f470739a92a457dcaa718230/gradle-api-impldep-7.5.1.jar.receipt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/jars-9/b36c9da7d77c538320441ba06ec6038e/signflinger-7.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/jars-9/b544b4473f1793962735f0cd1ec880cc/javax.activation-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/jars-9/b596f29e02cdd8579d11846e3ac9bde4/istack-commons-runtime-3.0.8.jar.receipt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/jars-9/bcf47105e3c6719ea064066ffcc006f3/bcprov-jdk15on-1.67.jar.lock.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/jars-9/c73fd62ead197bd389ae9d86825f4f63/jimfs-1.1.jar.lock.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/jars-9/df1ba44f1a5d0a8f6cc2c9345b39694e/gradle-tooling-extension-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/jars-9/f52185add367b74978a28b4353f45b46/proj.jar.lock.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/jars-9/o_4ffa90a3b6f9070d139d4f9db3c9045d/app.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/jars-9/o_7c58b3711ccf3a865ad076248742fe6e/android-gradle.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/modules-2/files-2.1/androidx.databinding/databinding-common/7.4.2/84ed411631d2c4113f4ad992669fe3f50a83f072/databinding-common-7.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/modules-2/files-2.1/com.android.tools.build/apkzlib/7.4.2/2ac448ac54b8c0dafba9581eeaadafb1a6dd66bb/apkzlib-7.4.2-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/modules-2/files-2.1/com.android.tools.build/gradle-api/7.4.2/6d8a7bc41323282f5aebbd98e8bf786bf16757c9/gradle-api-7.4.2-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/modules-2/files-2.1/com.google.protobuf/protobuf-bom/3.17.2/a76cc840d98f58670195da4c1ef10db4b9bc6bda/protobuf-bom-3.17.2.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/modules-2/files-2.1/com.googlecode.juniversalchardet/juniversalchardet/1.0.3/be6da8320adedafc712d645ddaaad00357b55408/juniversalchardet-1.0.3.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/modules-2/files-2.1/com.sun.activation/javax.activation/1.2.0/bf744c1e2776ed1de3c55c8dac1057ec331ef744/javax.activation-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/modules-2/files-2.1/com.sun.xml.fastinfoset/FastInfoset/1.2.16/4eb6a0adad553bf759ffe86927df6f3b848c8bea/FastInfoset-1.2.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/modules-2/files-2.1/io.grpc/grpc-context/1.39.0/637f453f3654aa29bf085ae7ddc86f9f80c937dd/grpc-context-1.39.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/modules-2/files-2.1/io.grpc/grpc-protobuf-lite/1.39.0/2b56a83a586d8eff46bbd3761959a4ec018deb93/grpc-protobuf-lite-1.39.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/modules-2/files-2.1/io.grpc/grpc-protobuf/1.39.0/3e09193e65cc0d5f8e17c40289a58c1701c3d81b/grpc-protobuf-1.39.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.3.2/302fe96ef206b17f82893083b51b479541fa25ab/javax.annotation-api-1.3.2.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/modules-2/files-2.1/net.java.dev.jna/jna-platform/5.6.0/feecafda956e16ce05e9de98a1f0ab0abf2280bf/jna-platform-5.6.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/modules-2/files-2.1/net.java/jvnet-parent/3/f8f3be3e980551a39b5679411e171aeb6931aaec/jvnet-parent-3.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/modules-2/files-2.1/org.apache.commons/commons-parent/48/1cdeb626cf4f0cec0f171ec838a69922efc6ef95/commons-parent-48.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.7.10/b5bde181b4c8b306d3124ded3beb9814a249acd0/kotlin-reflect-1.7.10-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.30/2013960e5ee7f712d8fa6f2e618a6ff2e8d98a9/slf4j-api-1.7.30.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/modules-2/metadata-2.99/descriptors/com.android.tools.build/builder-model/7.4.2/11cd36a7dcab7d14d0c14c5e6c7582e3/descriptor.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/modules-2/metadata-2.99/descriptors/com.google.api.grpc/proto-google-common-protos/2.0.1/edb68b65d2dd9b547bbf59d703899938/descriptor.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/modules-2/metadata-2.99/descriptors/com.sun.xml.bind.mvn/jaxb-txw-parent/2.3.2/edb68b65d2dd9b547bbf59d703899938/descriptor.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/modules-2/metadata-2.99/descriptors/com.sun.xml.bind/jaxb-bom-ext/2.3.2/edb68b65d2dd9b547bbf59d703899938/descriptor.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/modules-2/metadata-2.99/descriptors/com.sun.xml.fastinfoset/FastInfoset/1.2.16/edb68b65d2dd9b547bbf59d703899938/descriptor.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/modules-2/metadata-2.99/descriptors/io.netty/netty-transport/4.1.52.Final/edb68b65d2dd9b547bbf59d703899938/descriptor.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/modules-2/metadata-2.99/descriptors/net.java.dev.jna/jna/5.6.0/edb68b65d2dd9b547bbf59d703899938/descriptor.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/modules-2/metadata-2.99/descriptors/org.checkerframework/checker-qual/3.5.0/edb68b65d2dd9b547bbf59d703899938/descriptor.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/modules-2/metadata-2.99/descriptors/org.eclipse.ee4j/project/1.0.2/edb68b65d2dd9b547bbf59d703899938/descriptor.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/modules-2/metadata-2.99/descriptors/org.jetbrains/annotations/13.0/edb68b65d2dd9b547bbf59d703899938/descriptor.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/00247436d5dcab4723a790faeb698934/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/05f439412cefdff3c0aa0ebef5328a02/transformed/support-core-ui-28.0.0-runtime" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/07067c721d34ede9d2a2a81a938fec95/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/073298f370737801627a66871643cc1f/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/09ca89db6e8b75aef721b0efe4d7e2bc/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/0be2eef43f2fc437f27edd9056c6643c/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/0c8e31a01c2e9a5f514ce4d73586a472/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/0c8e31a01c2e9a5f514ce4d73586a472/transformed/livedata-1.1.1-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/0c956d99471e918d50da7f8b6eafb98e/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/0fed5a71368073545135029e05352c6a/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/102300603ee86abda6e8ba4d6369291c/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/1200c043fa91b08af2af2b7d89a9081e/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/121bb28386de7ffc550ffe3af2234797/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/1309688c3beb79513514c4d2bd23c32c/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/14bbddb0aa17b7773bfd8386e4feef8d/transformed/android.support.fragment-r.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/153528c02199840cfc5b445d5a9d0157/transformed/android.support.localbroadcastmanager-r.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/160b5e9f4eb82bad3b6fd3700bae49c1/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/160b5e9f4eb82bad3b6fd3700bae49c1/transformed/USDKLibrary-v2.3.0628-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/162fbcf2dba2ac85aef4c5473feeed39/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/173d73d15fd8743f7273e530c47132b2/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/1801ba907b86f31b1ab1f41005294c3a/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/185a742eaa83386b9a650c354ef9e932/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/185a742eaa83386b9a650c354ef9e932/transformed/asynclayoutinflater-28.0.0-runtime/classes.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/1befdb7273e8527812afd1fa2b8b129c/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/1e57453277e7ccb50332ad1d74951c95/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/21f6ff8eddb39d262b2a991a6b77d58a/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/2437f6fb92d6fa8f29e9c543ed185ccc/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/251d0cb12221e58c40028e1bc66f76ea/transformed/android.support.design/anim_design_bottom_sheet_slide_in.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/251d0cb12221e58c40028e1bc66f76ea/transformed/android.support.design/animator_mtrl_btn_unelevated_state_list_anim.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/251d0cb12221e58c40028e1bc66f76ea/transformed/android.support.design/animator_mtrl_chip_state_list_anim.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/251d0cb12221e58c40028e1bc66f76ea/transformed/android.support.design/animator_mtrl_fab_show_motion_spec.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/251d0cb12221e58c40028e1bc66f76ea/transformed/android.support.design/animator_mtrl_fab_transformation_sheet_collapse_spec.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/251d0cb12221e58c40028e1bc66f76ea/transformed/android.support.design/color_mtrl_btn_ripple_color.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/251d0cb12221e58c40028e1bc66f76ea/transformed/android.support.design/color_mtrl_btn_stroke_color_selector.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/251d0cb12221e58c40028e1bc66f76ea/transformed/android.support.design/color_mtrl_btn_text_btn_ripple_color.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/251d0cb12221e58c40028e1bc66f76ea/transformed/android.support.design/color_mtrl_chip_background_color.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/251d0cb12221e58c40028e1bc66f76ea/transformed/android.support.design/color_mtrl_chip_close_icon_tint.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/251d0cb12221e58c40028e1bc66f76ea/transformed/android.support.design/color_mtrl_chip_ripple_color.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/251d0cb12221e58c40028e1bc66f76ea/transformed/android.support.design/color_mtrl_chip_text_color.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/251d0cb12221e58c40028e1bc66f76ea/transformed/android.support.design/color_mtrl_tabs_icon_color_selector.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/251d0cb12221e58c40028e1bc66f76ea/transformed/android.support.design/color_mtrl_tabs_legacy_text_color_selector.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/251d0cb12221e58c40028e1bc66f76ea/transformed/android.support.design/color_mtrl_text_btn_text_color_selector.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/251d0cb12221e58c40028e1bc66f76ea/transformed/android.support.design/drawable-anydpi-v21_design_ic_visibility_off.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/251d0cb12221e58c40028e1bc66f76ea/transformed/android.support.design/drawable-xhdpi-v4_design_ic_visibility.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/251d0cb12221e58c40028e1bc66f76ea/transformed/android.support.design/drawable-xxhdpi-v4_design_ic_visibility.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/251d0cb12221e58c40028e1bc66f76ea/transformed/android.support.design/drawable-xxxhdpi-v4_design_ic_visibility_off.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/251d0cb12221e58c40028e1bc66f76ea/transformed/android.support.design/drawable_design_password_eye.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/251d0cb12221e58c40028e1bc66f76ea/transformed/android.support.design/drawable_ic_mtrl_chip_checked_black.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/251d0cb12221e58c40028e1bc66f76ea/transformed/android.support.design/drawable_ic_mtrl_chip_close_circle.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/251d0cb12221e58c40028e1bc66f76ea/transformed/android.support.design/interpolator-v21_mtrl_fast_out_linear_in.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/251d0cb12221e58c40028e1bc66f76ea/transformed/android.support.design/layout-sw600dp-v13_design_layout_snackbar.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/251d0cb12221e58c40028e1bc66f76ea/transformed/android.support.design/layout-sw600dp-v13_mtrl_layout_snackbar.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/251d0cb12221e58c40028e1bc66f76ea/transformed/android.support.design/layout_design_layout_snackbar.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/251d0cb12221e58c40028e1bc66f76ea/transformed/android.support.design/layout_design_layout_tab_icon.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/251d0cb12221e58c40028e1bc66f76ea/transformed/android.support.design/layout_design_navigation_item_separator.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/251d0cb12221e58c40028e1bc66f76ea/transformed/android.support.design/layout_design_navigation_item_subheader.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/251d0cb12221e58c40028e1bc66f76ea/transformed/android.support.design/layout_mtrl_layout_snackbar.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/262ed308cd04040142ee9f5572faf6c9/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/26fb39e3f0eeb51ac330117bcde9eb8a/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/27c34c1558f6bed694f0ec59e6f507cc/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/2904f7758b46e9bd3e1dda9c65d0558f/transformed/slidingpanelayout-28.0.0-runtime/classes.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/29168e8d8e0bfe9c7d3cf10e0e1c01a5/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/2bca3f61685c78590e8b85dc8ac45529/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/32a45606613bf1031aec2430d8767c18/transformed/recyclerview-v7-28.0.0-runtime" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/32ce3a80864028fe693720ffd6dbb149/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/32ce3a80864028fe693720ffd6dbb149/transformed/livedata-core-1.1.1-runtime/classes.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/34b33c6df4c8a679b4c4b2eb72ffd148/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/34b5b6b4f371cd5a02c384b8a9015657/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/34e21657828788de50f549c03113fec1/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/anim_abc_fade_in.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/anim_abc_fade_out.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/anim_abc_slide_in_top.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/anim_abc_slide_out_top.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/color-v23_abc_btn_colored_text_material.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/color-v23_abc_tint_default.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/color-v23_abc_tint_edittext.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/color_abc_hint_foreground_material_light.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/color_abc_primary_text_disable_only_material_dark.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/color_abc_primary_text_disable_only_material_light.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/color_abc_primary_text_material_dark.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/color_abc_tint_btn_checkable.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/color_abc_tint_default.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/color_switch_thumb_material_light.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-hdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-ldrtl-mdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-mdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-v21_abc_btn_colored_material.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-v21_abc_edit_text_material.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-xhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable_abc_btn_check_material.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable_abc_cab_background_top_material.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable_abc_ic_go_search_api_material.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable_abc_ic_search_api_material.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable_abc_list_selector_holo_light.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable_abc_ratingbar_material.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable_abc_seekbar_tick_mark_material.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable_abc_text_cursor_material.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable_abc_vector_test.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/drawable_tooltip_frame_dark.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/layout-v26_abc_screen_toolbar.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/layout_abc_action_bar_up_container.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/layout_abc_action_menu_layout.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/layout_abc_action_mode_bar.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/layout_abc_expanded_menu_layout.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/layout_abc_list_menu_item_checkbox.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/layout_abc_popup_menu_header_item_layout.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/layout_abc_tooltip.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/layout_select_dialog_item_material.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/354461145b3b7292813cdc632aba7147/transformed/android.support.v7.appcompat/layout_support_simple_spinner_dropdown_item.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/3744aa9e1d4f3092b0f37e7bf3c0b707/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/38aeb1476218a3a05dd004d23952206b/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/403e147b3e663be6f607b9e001de19cd/transformed/customview-28.0.0-runtime/classes.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/406265638b5421905eb92d80df462f50/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/41ebdac7daab23a1a78cc8fa014a3ff3/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/432730f5feb7ad2f833d674e16d73fd8/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/4cb502a1da92e527852f5f2cc090541b/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/4cb502a1da92e527852f5f2cc090541b/transformed/android.support.v7.recyclerview-r.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/4e8634f79dab78653151f21c8ae83660/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/4ea8cff61247e82b626801261b9795e2/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/4ea8cff61247e82b626801261b9795e2/transformed/customview-28.0.0-runtime.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/5221a62a651ec570c1c168c974abd516/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/52dddb8e0d3e510b90a3cd9f7047bac9/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/55ba5a8830895c07c52bfc9afcea29e9/transformed/runtime-1.1.1-runtime" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/55c2dc316b9051aa95d9cd0d096e807c/transformed/localbroadcastmanager-28.0.0-runtime" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/57b8f1fd96aef40a3e4b04e09cd8f769/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/58077d7d7a59a04d262d8eb25fd44fa4/transformed/android.support.design-r.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/5c5feb71f8d07346b8c6b166e852275c/transformed/animated-vector-drawable-28.0.0-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/5d9622e3a2f8e5699bad7338470bb9fd/transformed/cursoradapter-28.0.0-runtime" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/5f518a2619d2a26364de84cf674ac349/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/61b632ca103b545d556829b2cd5bf5a4/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/65c98a411ede70b62ee8c54cc4eaccf1/transformed/asynclayoutinflater-28.0.0-runtime" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/661551a60f5c269de98c8b3d48043888/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/69547fcd13ef9e5cec6a8364aabebec7/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/69de531ee00ea6555d1a1409635829d1/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/6a69ddb329680aba059fad3503eeea2d/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/6f132934328704389b769c3d021c75a9/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/6f3b61983d90019d39b9503ccfd6a00f/transformed/support-vector-drawable-28.0.0-runtime" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/71b9b6c6aff2046ea98ab5249f217f1d/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/72cde4688a238eb3d803e7e95f64a0ed/transformed/localbroadcastmanager-28.0.0-runtime.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/737d1851574ee1760b2b37d5d0bd63c2/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/73e8be96a973a224e6c52f23f975425f/transformed/appcompat-v7-28.0.0-runtime/classes.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/7509103c7226a6555f92a07de86fc2aa/transformed/loader-28.0.0-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/76b0b798a275da5d15423b8f86c987c7/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/77f9da974ab127bb16650974c7f6c495/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/7a019942d1bea300de1cdaf762c9d6a7/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/7dabdcc7b477c09bf0845026ae4e474c/transformed/localbroadcastmanager-28.0.0-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/8601eba42f8fcc21faad6e6168986801/transformed/viewpager-28.0.0-runtime" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/88c69f619a38bf423840b3befe52a9e6/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/8addf6a7ade41db48a3b8dbc8e66d32c/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/8addf6a7ade41db48a3b8dbc8e66d32c/transformed/android.support.v7.appcompat-r.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/8c9817678cc733291e1ca3d5e0b82b36/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/8daf5d4442de4d7ac0d7a8e017e5a670/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/8ed46bfa7d6521e540a5059184891c4d/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/8faf3ab2d01e26315b00a236a891c2c3/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/90bdaf4d9cfbb8b3efedb00029328432/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/90bdaf4d9cfbb8b3efedb00029328432/transformed/common-1.1.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/94340ed577aba48da3ec45371b8a513b/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/959875a61c4d624c91d1017e45ebd77a/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/961b82ea97a4b6565744fa6df2b25040/transformed/interpolator-28.0.0-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/9666cb187fe4ebe36b093259e4296489/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/98a712a6595d0b37b33d6c1ce829fc93/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/9a38ff0715e4c1146d73c64af243a537/transformed/cardview-v7-28.0.0-runtime" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/9ba3e5b893d0aa9d462f0b77e3f3eaa7/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/9cb6741abf931b416d3ffb3db17bab61/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/9d0e21b0f8550c9af0b6f477547ea9e1/transformed/android.arch.lifecycle.livedata-r.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/9e400a904f8fece12cfb1de05adc10fe/transformed/customview-28.0.0-runtime" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/9f45988946b295b3b381d069ac6612ce/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/9fd78b6552b05a6468d62d711093816e/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/9fd78b6552b05a6468d62d711093816e/transformed/documentfile-28.0.0-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/a13d605344d767da3d79f58184d217ad/transformed/runtime-1.1.1-runtime/classes.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/a21e7d4ed687b7457046798cb1553b20/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/a265f1998f3e70f2441ab0392594ad77/transformed/kotlin-stdlib-1.4.10/classes.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/a51a22d06566147fc2eb14fb7bb232ee/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/a51a22d06566147fc2eb14fb7bb232ee/transformed/cardview-v7-28.0.0-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/a6b34da99294cb152feed2e14757bb06/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/a75196bca21a7af1d904131c6f74458b/transformed/coordinatorlayout-28.0.0-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/aae70861ed186be7bb30ea3eef2e59d9/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/ae0c3a361ee809b80c61ca86499d3d8c/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/b0f80cdcd560dd01139ca854e10eca6f/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/b328d135e3ce1d2684a3342585793edd/transformed/runtime-1.1.1-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/b372a51d26261119c3c29c3a0a8579f3/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/b372a51d26261119c3c29c3a0a8579f3/transformed/transition-28.0.0-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/b88c2bb6f78e7b3af6a4b70cf7cc2ec6/transformed/android.support.v7.viewpager-r.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/b9a0459dfba86d1909ecb1965d70128a/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/babd4501081c3bfb9341d68fccee8964/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/baed1408b546e1df497213ff03075fbe/transformed/android.support.compat-r.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/bc5e1c744a744d63000bc463d0d8f830/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/be6b624f19eb397d855d097cc69f5ffa/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/beba7abf527e7f6b087a365c7de354cf/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/befb8db0cf5d41643181deb9d193fe54/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/befb8db0cf5d41643181deb9d193fe54/transformed/runtime-1.1.1-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/bf47ecf3f852ca8da7b1313e27dedbc8/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/bf47ecf3f852ca8da7b1313e27dedbc8/transformed/android.support.compat/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/bf47ecf3f852ca8da7b1313e27dedbc8/transformed/android.support.compat/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/bf47ecf3f852ca8da7b1313e27dedbc8/transformed/android.support.compat/drawable-xhdpi-v4_notification_bg_normal.9.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/bf47ecf3f852ca8da7b1313e27dedbc8/transformed/android.support.compat/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/bf47ecf3f852ca8da7b1313e27dedbc8/transformed/android.support.compat/drawable_notification_tile_bg.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/bf47ecf3f852ca8da7b1313e27dedbc8/transformed/android.support.compat/layout-v21_notification_action.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/bf47ecf3f852ca8da7b1313e27dedbc8/transformed/android.support.compat/layout-v21_notification_template_icon_group.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/bf47ecf3f852ca8da7b1313e27dedbc8/transformed/android.support.compat/layout_notification_action.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/bf47ecf3f852ca8da7b1313e27dedbc8/transformed/android.support.compat/layout_notification_template_custom_big.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/bf47ecf3f852ca8da7b1313e27dedbc8/transformed/android.support.compat/layout_notification_template_icon_group.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/bf47ecf3f852ca8da7b1313e27dedbc8/transformed/android.support.compat/layout_notification_template_part_time.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/bf4e0689500c90afed46137d27119c99/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/c142b3752b9e51c39a29873cfd7c8b9f/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/c1cb5422aa3ea040b9747a09df19cb9b/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/c25b03a8ada75ded466fccdf726a501b/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/c2adc8133c114a44febec0c4ec6ba815/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/c2fa0d26ff0ef60adaf9b6d183adc1e0/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/c4e77c5e9c585431f2fbbe46e039590a/transformed/rxandroid-2.0.2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/c517a80236046b28e205c8850feda148/transformed/kotlin-stdlib-1.4.10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/c65ca981f219c42cd15ca836cd93a3ad/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/c69bab3dc11113ec9839ae1c593e88de/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/c7e2c5722ae89e2bc965a2293e70e010/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/c92f3827d36266fe96555943f04fffed/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/c9b2698a4664c2d5a4a1468ed2fa0849/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/cb067e48b8ae35e565103921ae6fddca/transformed/support-compat-28.0.0-runtime.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/cbb5409f743595ac8c76e24fac274e24/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/cf9a507e200bd3c7ed6fb06a099d6016/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/d0cd022595db63ad1b11e52e2b02e6a5/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/d100bba2383aa876e82927e2bdef3ae1/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/d108005bc384d6314628feb1a9e688f0/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/d50f596564c1fa488a91bf0a32903961/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/d563c8c284b1bcac88f4832b37c9ca93/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/d8ade7349d3952330698840f7c7462b3/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/dacabd5495940781c323c77c9b370ecf/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/dbca25f350a7ef396c5865788bf008fd/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/dc092438a3f341baa8cb7ea0f1e0e4f0/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/dc092438a3f341baa8cb7ea0f1e0e4f0/transformed/android.support.transition-r.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/dd42a53e5348768fc19709d76f84eef9/transformed/appcompat-v7-28.0.0-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/e0d40374e263a769d5aa7e15102bd81b/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/e3984f7ecffd0bb39c9446cab225b5dc/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/e3a1c54084c8d7a09bc39466831632a4/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/e520c81e56f9cc765d0ade33a0b5c178/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/e5f4a2f3a98eff0e0e8a819ca4112299/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/e60413783c8e15de714c97b858b92621/transformed/android.support.swiperefreshlayout-r.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/e9b55bb21e0928a50d2b3b35c3251e8a/transformed/viewpager-28.0.0-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/ea7165d61a3d35398a868fe2a73d2aab/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/ea9a9655639f305ddb201102cab0d325/transformed/com.ubx.usdk/raw_scan_new.ogg.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/f0fc03125db621a66984614e4c32d2ee/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/f6ba6410fca9863998e16b628fe4c13f/transformed/collections-28.0.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/f6d1d00cb9d29d16ecd53e112169d366/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/fa722f276b3a522b57754b895b18afc3/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/fc4b1b8951728e8449d3903c91be3551/transformed/coordinatorlayout-28.0.0-runtime/classes.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/fd783b60a8104a927aa797852b60ba3f/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/febe3c1f7f9ef64f6e807040755e6843/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/ffa9be0ee3b35313397e4a5deb759a9c/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caches/transforms-3/ffb0b5e92752eb004021c4d335d29a04/transformed/USDKLibrary-v2.3.0628-runtime.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wrapper/dists/gradle-7.5-bin/f1w0cc9nuo0eivz97x2xlu9sv/gradle-7.5/lib/gradle-build-events-7.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wrapper/dists/gradle-7.5-bin/f1w0cc9nuo0eivz97x2xlu9sv/gradle-7.5/lib/gradle-problems-7.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wrapper/dists/gradle-7.5-bin/f1w0cc9nuo0eivz97x2xlu9sv/gradle-7.5/lib/groovy-test-3.0.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wrapper/dists/gradle-7.5-bin/f1w0cc9nuo0eivz97x2xlu9sv/gradle-7.5/lib/javaparser-core-3.17.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wrapper/dists/gradle-7.5-bin/f1w0cc9nuo0eivz97x2xlu9sv/gradle-7.5/lib/kotlin-reflect-1.6.21.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wrapper/dists/gradle-7.5-bin/f1w0cc9nuo0eivz97x2xlu9sv/gradle-7.5/lib/plugins/dd-plist-1.21.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wrapper/dists/gradle-7.5-bin/f1w0cc9nuo0eivz97x2xlu9sv/gradle-7.5/lib/plugins/gradle-plugins-7.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wrapper/dists/gradle-7.5-bin/f1w0cc9nuo0eivz97x2xlu9sv/gradle-7.5/lib/plugins/jcifs-1.3.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wrapper/dists/gradle-7.5-bin/f1w0cc9nuo0eivz97x2xlu9sv/gradle-7.5/lib/plugins/jmespath-java-1.11.948.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\sehun\.android\avd\Pixel_7_Pro_API_34.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="RFID_RRDemo" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="RFID_RRDemo" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="RFID_RRDemo" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="RFID_RRDemo" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="RFID_RRDemo" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="C:\BackEnd_Project\circularlabs\RFID-Jar Development Documentation-2.3.0628A\RFID_RRDemo\RFID_DEMO.jks" />
+    <option name="KEY_ALIAS" value="key0" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2byXuwrbulroZFw5HhluZ7msA4b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ApkExportedModule&quot;: &quot;RFID_RRDemo.app&quot;,
+    &quot;ExportApk.ApkPathForRFID_RRDemo.app&quot;: &quot;C:\\BackEnd_Project\\circularlabs\\RFID-Jar Development Documentation-2.3.0628A\\RFID_RRDemo\\app&quot;,
+    &quot;PROJECT_TRUSTED_KEY&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;ScreenRecorder.SavePath&quot;: &quot;C:\\BackEnd_Project&quot;,
+    &quot;android-custom-viewC:/Users/sehun/AppData/Local/Android/Sdk/sources/android-34/android/view/View.java_SELECTED&quot;: &quot;View&quot;,
+    &quot;android-custom-viewC:/Users/sehun/AppData/Local/Android/Sdk/sources/android-34/android/view/ViewGroup.java_SELECTED&quot;: &quot;ViewGroup&quot;,
+    &quot;android-custom-viewC:/Users/sehun/AppData/Local/Android/Sdk/sources/android-34/android/widget/Spinner.java_SELECTED&quot;: &quot;Spinner&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/BackEnd_Project/CircularLabs_Apk/RFID-Jar Development Documentation-2.3.0628A/RFID_RRDemo&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ExportApk.BuildVariants&quot;: [
+      &quot;release&quot;
+    ]
+  }
+}</component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Default Config" />
+    <option name="BUILD_VARIANTS_TAB" value="Flavors" />
+    <option name="LAST_EDITED_SIGNING_CONFIG" value="debug" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\BackEnd_Project\circularlabs\RFID-Jar Development Documentation-2.3.0628A\RFID_RRDemo\app\src\main\res\drawable" />
+      <recent name="C:\BackEnd_Project\circularlabs\RFID-Jar Development Documentation-2.3.0628A\RFID_RRDemo\app\src\main\res\layout" />
+      <recent name="C:\BackEnd_Project\circularlabs\RFID-Jar Development Documentation-2.3.0628A\RFID_RRDemo\app\src\main\res\values" />
+      <recent name="C:\BackEnd_Project\circularlabs\RFID-Jar Development Documentation-2.3.0628A\RFID_RRDemo\app\libs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\BackEnd_Project\circularlabs\RFID-Jar Development Documentation-2.3.0628A\RFID_RRDemo\app\src\main\res\drawable" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ubx.rfid_demo.ui.main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="true" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="RFID_RRDemo.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RFID_RRDemo" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.RFID_RRDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="432eaca8-c1f2-44bc-b219-af89593af27e" name="Changes" comment="" />
+      <created>1707188520160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707188520160</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$PROJECT_DIR$/app/libs/platform_sdk_v4.1.0326.jar!/android/device/DeviceManager.class</url>
+          <line>482</line>
+          <properties class="android.device.DeviceManager" method="getScannerStatus">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/transforms-3/8999f890df85af406559911cc19f62a4/transformed/USDKLibrary-v2.3.0628/jars/classes.jar!/com/ubx/usdk/RFIDSDKManager.class</url>
+          <line>57</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/transforms-3/8999f890df85af406559911cc19f62a4/transformed/USDKLibrary-v2.3.0628/jars/classes.jar!/com/ubx/usdk/util/OtgUtils.class</url>
+          <line>62</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
